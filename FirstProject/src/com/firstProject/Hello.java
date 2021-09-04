@@ -4,8 +4,7 @@ public class Hello {
    public void SYso() {
 	// TODO Auto-generated method tub
 
-	   
-	   
-	   System.out.print("ii");
+	     
+	   System.out.print("iiiii");
 }
 }
