@@ -1,7 +1,7 @@
 package com.firstProject;
 
 public class Hello {
-   public void SYso() {
+   public static void main(String args[]) {
 	// TODO Auto-generated method tub
 
 	     
